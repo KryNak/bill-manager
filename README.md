@@ -9,12 +9,14 @@ Simple bill management application created with Spring Framework.
 
 ## General info
 
+It is a simple database application that allows you to add and track expenses on a given day. Additionally, the application provides a login (supports social login) and registration system (along with email confirmation). This is my first such large application using Spring framework.
+
 ## Technologies
 * Java 8
-* Spring(Oauth2, Security, JPA, Web, Lombok, Mail)
+* Spring (Oauth2, Security, JPA, Web, Lombok, Mail)
 * HTML / Thymeleaf
-* CSS(Materializecss, Bootstrap)
-* Javascript(jQery)
+* CSS (Materializecss, Bootstrap)
+* Javascript (jQery)
 
 ## Setup
 
