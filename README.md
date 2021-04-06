@@ -26,3 +26,5 @@ For the project to work properly you need to install maildev tool which allows y
 $ npm install -g maildev
 $ maildev
 ```
+
+Additionally you have to register your application on services like facebook, google, github to make social login work properly. 
