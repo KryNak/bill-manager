@@ -1,4 +1,7 @@
-# bill-manager
+# Bill Manager
+
+Simple bill management application.
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
