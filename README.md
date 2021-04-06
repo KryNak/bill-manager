@@ -29,9 +29,9 @@ $ maildev
 
 Additionally you have to register your application on services like facebook, google, github to make social login work properly. 
 
-#### Github
-
+## Github
 Here is a link to a github doc that takes a closer look at application registration.
+
 https://docs.github.com/en/developers/apps/creating-an-oauth-app
 
 Then, after following the steps in the link, copy the selected values to application.yml
