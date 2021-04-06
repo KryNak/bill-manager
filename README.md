@@ -1,6 +1,6 @@
 # Bill Manager
 
-Simple bill management application.
+Simple bill management application created with Spring Framework.
 
 ## Table of contents
 * [General info](#general-info)
