@@ -9,5 +9,8 @@
 ## Technologies
 
 ## Setup
+
+```
 $ npm install -g maildev
 $ maildev
+```
