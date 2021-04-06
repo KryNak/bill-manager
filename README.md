@@ -10,6 +10,11 @@ Simple bill management application created with Spring Framework.
 ## General info
 
 ## Technologies
+* Java 8
+* Spring(Oauth2, Security, JPA, Web, Lombok, Mail)
+* HTML / Thymeleaf
+* CSS(Materializecss, Bootstrap)
+* Javascript(jQery)
 
 ## Setup
 
