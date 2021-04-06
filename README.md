@@ -20,6 +20,8 @@ It is a simple database application that allows you to add and track expenses on
 
 ## Setup
 
+For the project to work properly you need to install maildev tool which allows you to keep track of the emails you send.
+
 ```
 $ npm install -g maildev
 $ maildev
