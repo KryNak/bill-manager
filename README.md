@@ -37,9 +37,13 @@ Then, after following the steps in the link, copy the selected values to applica
 ![Github](./readme-images/github.png)
 
 ### Facebook
+
+
+
 ### Google
 Click into below link and follow the instructions in the pictures.  
 https://console.cloud.google.com/apis/credentials
+
 ![Facebook](./readme-images/Facebook.png)
 
 
