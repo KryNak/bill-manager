@@ -34,11 +34,12 @@ Here is a link to a github doc that takes a closer look at application registrat
 https://docs.github.com/en/developers/apps/creating-an-oauth-app
 
 Then, after following the steps in the link, copy the selected values to application.yml  
-![Github](./readme-images/github.png)
+![Github](./readme-images/Github.png)
 
 ### Facebook
 ### Google
 Click into below link and follow the instructions in the pictures.  
 https://console.cloud.google.com/apis/credentials
+![Facebook](./readme-images/Facebook.png)
 
 
