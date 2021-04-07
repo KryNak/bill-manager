@@ -6,6 +6,7 @@ Simple bill management application created with Spring Framework.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Status](#status)
 
 ## General info
 
@@ -46,4 +47,4 @@ https://console.cloud.google.com/apis/credentials
 
 ![Facebook](./readme-images/Facebook.png)
 
-
+## Status
