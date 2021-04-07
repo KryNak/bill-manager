@@ -35,3 +35,6 @@ https://docs.github.com/en/developers/apps/creating-an-oauth-app
 
 Then, after following the steps in the link, copy the selected values to application.yml  
 ![Github](./readme-images/github.png)
+
+### Facebook
+### Google
