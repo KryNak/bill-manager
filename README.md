@@ -34,7 +34,7 @@ Here is a link to a github doc that takes a closer look at application registrat
 https://docs.github.com/en/developers/apps/creating-an-oauth-app
 
 Then, after following the steps in the link, copy the selected values to application.yml  
-![Github](./readme-images/Github.png)
+![Github](./readme-images/github.png)
 
 ### Facebook
 ### Google
