@@ -36,9 +36,9 @@ spring:
           google:
             client-id: ${google-client-id}
             client-secret: ${google-client-secret}
-            access-token-uri: ${google-access-token-uri}
-            user-authorization-uri: ${google-user-authorization-uri}
-            user-info-uri: ${google-user-info-uri}
+            #access-token-uri: ${google-access-token-uri}
+            #user-authorization-uri: ${google-user-authorization-uri}
+            #user-info-uri: ${google-user-info-uri}
             scope:
               - email
               - profile
@@ -53,9 +53,9 @@ spring:
           github:
             client-id: ${github-client-id}
             client-secret: ${github-client-secret}
-            access-token-uri: ${github-access-token-uri}
-            user-authorization-uri: ${github-user-authorization-url}
-            user-info-uri: ${github-user-info-uri}
+            #access-token-uri: ${github-access-token-uri}
+            #user-authorization-uri: ${github-user-authorization-url}
+            #user-info-uri: ${github-user-info-uri}
             scope:
               - email
 
