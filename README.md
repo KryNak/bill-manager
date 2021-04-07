@@ -38,3 +38,7 @@ Then, after following the steps in the link, copy the selected values to applica
 
 ### Facebook
 ### Google
+Click into below link and follow the instructions in the pictures.  
+https://console.cloud.google.com/apis/credentials
+
+
