@@ -6,6 +6,7 @@ Simple bill management application created with Spring Framework.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Status](#status)
 
 ## General info
 
@@ -37,8 +38,16 @@ Then, after following the steps in the link, copy the selected values to applica
 ![Github](./readme-images/github.png)
 
 ### Facebook
+Click into below link and follow the instructions in the pictures.  
+https://developers.facebook.com/apps/
+
+![Facebook](./readme-images/Facebook.png)
+
 ### Google
 Click into below link and follow the instructions in the pictures.  
 https://console.cloud.google.com/apis/credentials
 
+![Google](./readme-images/Google.png)
 
+## Status
+* In work
